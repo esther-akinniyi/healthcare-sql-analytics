@@ -1,0 +1,3 @@
+-- Healthcare SQL Analytics Portfolio
+-- Section 1
+-- Encounters and Patient Analysis

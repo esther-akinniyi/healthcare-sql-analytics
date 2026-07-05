@@ -1,0 +1,3 @@
+-- Healthcare SQL Analytics Portfolio
+-- Section 6
+-- Hypertension Analysis
